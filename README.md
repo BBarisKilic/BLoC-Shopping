@@ -6,4 +6,3 @@ An app that uses 'Business Logic Component' design pattern and bloc state manage
 
 -   bloc design pattern and state management.
 -   singleton and factory design pattern.
--   
